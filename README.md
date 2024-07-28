@@ -1,3 +1,6 @@
-# Automate_the_Boring_Stuff
+# Progress
 
-#### Computer programming can reduce the need for repetitive tasks.
+---
+
+- [ ] Learning basic text file input and output
+- [ ] Working with simple apis
